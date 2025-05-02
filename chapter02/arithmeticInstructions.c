@@ -9,12 +9,12 @@ int main(){
     int multiply = a * b;
 
     //Valid              //Invalid
-    int c;               //int b + c = a;
-    int a = b+c;         //int a = bc;   
-    int a = b*c;         
-    int a = b/c;
-    int a = pow(b,c);    // int a = b^c;
-
+    int c = 3;               //int b + c = a;
+    //int a = b+c;         //int a = bc;   
+    //int a = b*c;         
+    //int a = b/c;
+    int power = pow(b,c);    // int a = b^c;
+    printf("%d", power);
 
     return 0;
 }
