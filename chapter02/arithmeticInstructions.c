@@ -16,5 +16,6 @@ int main(){
     int power = pow(b,c);    // int a = b^c;
     printf("%d", power);
 
+    //just a comment
     return 0;
 }
