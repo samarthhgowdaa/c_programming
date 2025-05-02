@@ -17,5 +17,7 @@ int main(){
     printf("%d", power);
 
     //just a comment
+    //second comment
+    
     return 0;
 }
