@@ -6,7 +6,7 @@ int main(){
     printf("Enter the number to check the divisibility by 2: ");
     scanf("%d",&a);
     
-    //making things complicated is what I do for living
+    //making things complicated is what I do for living 
     if (a%2 == 0)
     {
         printf("%d is divisible by 2", a);
