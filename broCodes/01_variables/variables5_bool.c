@@ -27,7 +27,7 @@ int main(){
 */
 
     //Let's make it a bit more complicated
-    // Used logic gates, which I can gauge
+    // Used logic gates, which I lil knowledge about
 
     if (isOnline && isStudent == 1)
     {
